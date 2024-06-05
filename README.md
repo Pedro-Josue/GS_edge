@@ -1,1 +1,3 @@
-# GS_edge
+# Sensor de turbidez e ph com arduino
+ O projeto consiste em um sensor de turbidez que é a medida da dificuldade de um feixe de luz atravessar uma certa quantidade de água, dando uma aparência turva à mesma e o ph que é uma escala logarítmica que mede o grau de acidez, neutralidade ou alcalinidade de uma determinada solução, no caso desse projeto, o foco é em medir o ph de água salgada.
+  Esse projeto surgiu para a global solution de 2024 em parceria com a Oceans 20 (O20), que tem o objetivo de assegurar que asatividades humanas nos oceanos sejam ecologicamente responsáveis, socialmenteinclusivas e economicamente viáveis a longo prazo. Nesse projeto buscamos lidar com a parte de monitoração de habitats marinhos para assegurar o bem estar das espécies da área analisada.
