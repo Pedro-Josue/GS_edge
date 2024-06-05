@@ -2,9 +2,18 @@
 <h2>Detalhes do projeto</h2>
  O projeto consiste em um sensor de turbidez que é a medida da dificuldade de um feixe de luz atravessar uma certa quantidade de água, dando uma aparência turva à mesma e o ph que é uma escala logarítmica que mede o grau de acidez, neutralidade ou alcalinidade de uma determinada solução, no caso desse projeto, o foco é em medir o ph e a turbidez com foco em ambientes de água salgada.
  Por conta de llimitações da plataforma que utilizamos para montar a simulação (tinkercad) que não tinha um sensor de ph e um sensor de turbidez, optamos por criar um sistema de turbidez utilizando um LDR(Sensor de Luminosidade) para calcular conforme o tom da água,quanto mais poluída a água estiver, maior q turbidez e menor a luminosidade.
+  Por limitações das bibliotecas e componetes do simulador nós simulamos o sensor de ph para representalo no projeto.
   Esse projeto surgiu para a global solution de 2024 em parceria com a Oceans 20 (O20), que tem o objetivo de assegurar que as atividades humanas nos oceanos sejam ecologicamente responsáveis, socialmente inclusivas e economicamente viáveis a longo prazo. Nesse projeto buscamos lidar com a parte de monitoração de habitats marinhos para assegurar o bem estar das espécies da área analisada.
   
   ![arduino](foto_p_readme.jpg)
+
+<h2>Sensor de ph</h2>
+
+![ph](https://cdn.awsli.com.br/800x800/95/95881/produto/211294549/ev1-igsxxc.jpg)
+
+<h2>Sensor de turbidez</h2>
+
+![turbidez]([https://cdn.awsli.com.br/800x800/95/95881/produto/211294549/ev1-igsxxc.jpg](https://cdn.awsli.com.br/821/821277/produto/82815897/f71a3b5716.jpg))
 
 <h2>Tecnologias Utilizadas</h2>
 <li> Tinkercad
