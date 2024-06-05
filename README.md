@@ -13,7 +13,7 @@
 
 <h2>Sensor de turbidez</h2>
 
-![turbidez]([https://cdn.awsli.com.br/800x800/95/95881/produto/211294549/ev1-igsxxc.jpg](https://cdn.awsli.com.br/821/821277/produto/82815897/f71a3b5716.jpg))
+![turbidez](https://cdn.awsli.com.br/821/821277/produto/82815897/f71a3b5716.jpg)
 
 <h2>Tecnologias Utilizadas</h2>
 <li> Tinkercad
