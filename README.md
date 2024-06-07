@@ -45,5 +45,5 @@
 
 <h2>Links importantes</h2>
 <li> Link para a simulação no tinkercad: https://www.tinkercad.com/things/jP3Q9whdFKz-sensor-de-turbidez-ph-gs
-<li> Link para o vídeo que demonstra a simulação: aqui ficara o link
+<li> Link para o vídeo que demonstra a simulação: https://youtu.be/WqRODAjvKKo
 
