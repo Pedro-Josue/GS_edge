@@ -1,4 +1,9 @@
 # Sensor de turbidez e ph com arduino
+<h2>Integrantes do grupo</h2>
+Ruan Melo RM: 557599
+Pedro Josué RM: 554913
+Rodrigo Jimenez RM: 558148
+
 <h2>Detalhes do projeto</h2>
  O projeto consiste em um sensor de turbidez que é a medida da dificuldade de um feixe de luz atravessar uma certa quantidade de água, dando uma aparência turva à mesma e o ph que é uma escala logarítmica que mede o grau de acidez, neutralidade ou alcalinidade de uma determinada solução, no caso desse projeto, o foco é em medir o ph e a turbidez com foco em ambientes de água salgada.
  Por conta de llimitações da plataforma que utilizamos para montar a simulação (tinkercad) que não tinha um sensor de ph e um sensor de turbidez, optamos por criar um sistema de turbidez utilizando um LDR(Sensor de Luminosidade) para calcular conforme o tom da água,quanto mais poluída a água estiver, maior q turbidez e menor a luminosidade.
